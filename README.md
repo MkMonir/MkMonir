@@ -33,4 +33,4 @@ I'm Monir Khan a Front End Web Developer. I Spend most of time coding outstandin
 
 <br>
 
-https://api.daily.dev/devcards/52362045780442768129b399a7977ee6.png?r=lbk
+<a href="https://app.daily.dev/MkMonir"><img src="https://api.daily.dev/devcards/52362045780442768129b399a7977ee6.png?r=lbk" width="400" alt="Monir Khan's Dev Card"/></a>
