@@ -31,5 +31,5 @@ I'm Monir Khan a Front End Web Developer. I Spend most of time coding outstandin
 
 #### My Github Stats
 
-![mkmonir's github stats](https://github-readme-stats.vercel.app/api?username=mkmonir&count_private=true&theme=tokyonight&hide=contribs,prs)
+![mkmonir's github stats](https://github-readme-stats.vercel.app/api?username=MkMonir&count_private=true&theme=tokyonight&hide=contribs,prs)
 
