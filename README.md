@@ -16,7 +16,7 @@ I'm Monir Khan a Front End Web Developer. I Spend most of time coding outstandin
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Css Badge](https://img.shields.io/badge/-Css-F0DB4F?style=for-the-badge&labelColor=black&logo=css3&logoColor=F0DB4F)](#) [![TailwindCSS Badge](https://img.shields.io/badge/-TailwindCSS-F0DB4F?style=for-the-badge&labelColor=black&logo=TailwindCSS&logoColor=F0DB4F)](#) [![Css Badge](https://img.shields.io/badge/-NodeJs-F0DB4F?style=for-the-badge&labelColor=black&logo=Node&logoColor=F0DB4F)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Css Badge](https://img.shields.io/badge/-Css-F0DB4F?style=for-the-badge&labelColor=black&logo=css3&logoColor=F0DB4F)](#) [![TailwindCSS Badge](https://img.shields.io/badge/-TailwindCSS-F0DB4F?style=for-the-badge&labelColor=black&logo=TailwindCSS&logoColor=F0DB4F)](#) [![Css Badge](https://img.shields.io/badge/-node.js-F0DB4F?style=for-the-badge&labelColor=black&logo=NodeJs&logoColor=F0DB4F)](#)
 <br />
 <br />
 
