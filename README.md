@@ -4,10 +4,7 @@ I'm Monir Khan a Front End Web Developer. I Spend most of time coding outstandin
 
 :mailbox: Reach me out!
 
-[![facebook Badge](https://img.shields.io/badge/-MonirKhan-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/MkM0n1r/) [![Mail Badge](https://img.shields.io/badge/-KhanShaheb-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](khanmonir1335@gmail.com) [![instagram Badge](https://img.shields.io/badge/-MonirKhan-c0392b?style=flat&labelColor=8a3ab9&logo=gmail&logoColor=white)](https://www.instagram.com/mkm0n1r/) <a href="https://codepen.io/mkm0n1r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mkm0n1r" height="30" width="40" /></a>
-<a href="https://dev.to/mkm0n1r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mkm0n1r" height="30" width="40" /></a>
-<a href="https://fb.com/mkm0n1r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mkm0n1r" height="30" width="40" /></a>
-<a href="https://instagram.com/mkm0n1r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mkm0n1r" height="30" width="40" /></a>
+[![facebook Badge](https://img.shields.io/badge/-MonirKhan-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/MkM0n1r/) [![Mail Badge](https://img.shields.io/badge/-KhanShaheb-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](khanmonir1335@gmail.com) [![instagram Badge](https://img.shields.io/badge/-MonirKhan-c0392b?style=flat&labelColor=8a3ab9&logo=gmail&logoColor=white)](https://www.instagram.com/mkm0n1r/) https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 </p>
 
 - 🔭 I’m currently working at @Ahlfagon
