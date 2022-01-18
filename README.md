@@ -4,7 +4,7 @@ I'm Monir Khan a Front End Web Developer. I Spend most of time coding outstandin
 
 :mailbox: Reach me out!
 
-[![facebook Badge](https://img.shields.io/badge/-MonirKhan-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/MkM0n1r/) [![Mail Badge](https://img.shields.io/badge/-KhanShaheb-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](khanmonir1335@gmail.com) [![instagram Badge](https://img.shields.io/badge/-MonirKhan-c0392b?style=flat&labelColor=8a3ab9	&logo=gmail&logoColor=white)](https://www.instagram.com/mkm0n1r/)
+[![facebook Badge](https://img.shields.io/badge/-MonirKhan-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/MkM0n1r/) [![Mail Badge](https://img.shields.io/badge/-KhanShaheb-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](khanmonir1335@gmail.com) [![instagram Badge](https://img.shields.io/badge/-MonirKhan-c0392b?style=flat&labelColor=8a3ab9&logo=gmail&logoColor=white)](https://www.instagram.com/mkm0n1r/)
 
 - 🔭 I’m currently working at @Ahlfagon
 - :computer: Most used line of code `git commit -m "Initial Commit"`
