@@ -1,9 +1,6 @@
 ## Hi I'm Monir Khan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Monir Khan a Front End Web Developer. I Spend most of time coding outstanding projects.
-- 👨‍💻 All of my projects are available at [https://mkmonir.ml/](https://mkmonir.ml/)
-
-- 💬 Ask me about **HTML, CSS AND JAVASCRIPT**
 
 :mailbox: Reach me out!
 
@@ -12,6 +9,8 @@ I'm Monir Khan a Front End Web Developer. I Spend most of time coding outstandin
 
 - 🔭 I’m currently working at @Ahlfagon
 - :computer: Most used line of code `git commit -m "Initial Commit"`
+- 👨‍💻 All of my projects are available at [https://mkmonir.ml/](https://mkmonir.ml/)
+- 💬 Ask me about **HTML, CSS AND JAVASCRIPT**
 - 🤔 I’m looking for help with Outstanding Coding Things.
 - 📫 How to reach me: khanmonir1335@gmail.com.
 - ⚡ Fun fact: I play games and go to the GYM very often.
