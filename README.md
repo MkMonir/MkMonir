@@ -4,7 +4,7 @@ I'm Monir Khan a Front End Web Developer. I Spend most of time coding outstandin
 
 :mailbox: Reach me out!
 
-<a href="https://facebook.com/mkm0n1r"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://instagram.com/__monirkhan__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://mail.google.com/khanmonir1335@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://facebook.com/mkm0n1r"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://instagram.com/__monirkhan__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://mail.google.com/khanmonir1335@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
 - 🔭 I’m currently working at @Ahlfagon
