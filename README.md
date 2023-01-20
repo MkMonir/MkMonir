@@ -32,5 +32,13 @@ I am a MERN Stack Developer with experience in building full-stack web applicati
 
 #### My Github Stats  
 
-![mkmonir's github stats](https://github-readme-stats.vercel.app/api?username=MkMonir&count_private=true&theme=tokyonight&hide=contribs,prs)
+#### Profile Visits
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mkmonir.mkmonir)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkmonir" alt="mkmonir" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkmonir&show_icons=true&locale=en" alt="mkmonir" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkmonir&" alt="mkmonir" /></p>
 
