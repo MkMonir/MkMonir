@@ -46,9 +46,9 @@ I am a MERN Stack Developer with experience in building full-stack web applicati
 #### Top Repositories
 
 
-<a href="https://github.com/mkmonir/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkmonir&repo=mkmonir-readme-stats&theme=buefy" />
+<a href="https://github.com/MkMonir/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MkMonir&repo=MkMonir-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/mkmonir/mkmonir.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkmonir&repo=mkmonir.github.io&theme=buefy" />
+<a href="https://github.com/MkMonir/mkmonir.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MkMonir&repo=MkMonir.github.io&theme=buefy" />
 </a>
