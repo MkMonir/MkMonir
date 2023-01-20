@@ -13,7 +13,7 @@ I am a MERN Stack Developer with experience in building full-stack web applicati
 - 📫 How to reach me: khanmonir1335@gmail.com.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
-#### Top Technologies
+#### Things I code with
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
