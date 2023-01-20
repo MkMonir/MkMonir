@@ -37,9 +37,8 @@ I am a MERN Stack Developer with experience in building full-stack web applicati
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MkMonir.MkMonir)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MkMonir" alt="MkMonir" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MkMonir&show_icons=true&locale=en" alt="MkMonir" /></p>
+| <a href="https://github.com/mkmonir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mkmonir&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MkMonir's github stats" /></a> | <a href="https://github.com/mkmonir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkmonir&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MkMonir&" alt="MkMonir" /></p>
 MkMonir
