@@ -1,6 +1,6 @@
 ## Hi I'm Monir Khan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I am a MERN Stack Developer with experience in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I am well-versed in the latest web development technologies and have a strong understanding of both front-end and back-end development. I am dedicated to delivering high-quality and robust solutions to my clients and am always eager to stay up-to-date with the latest trends and best practices in web development.
+I am a MERN Stack Developer with experience in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I am well-versed in the latest web development technologies and have a strong understanding of both front-end and back-end development.
 
 #### Connect with me:
 
