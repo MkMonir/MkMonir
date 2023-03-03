@@ -13,7 +13,7 @@ I am a MERN Stack Developer with experience in building full-stack web applicati
 - 💬 Ask me about **HTML, CSS AND JAVASCRIPT**
 - 🤔 I’m looking for help with Outstanding Coding Things.
 - 📫 How to reach me: khanmonir1335@gmail.com.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Fun fact: I play games very often.
 
 #### Things I code with
 
