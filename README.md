@@ -50,5 +50,5 @@ I am a MERN Stack Developer with experience in building full-stack web applicati
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MkMonir&repo=Journey-to-JavaScript&theme=buefy" />
 </a>
 <a href="https://github.com/MkMonir/Journey-to-react.js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MkMonir&repo=Journey-to-JavaScript&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MkMonir&repo=Journey-to-react.js&theme=buefy" />
 </a>
