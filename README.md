@@ -37,8 +37,8 @@ I am a MERN Stack Developer with experience in building full-stack web applicati
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MkMonir.MkMonir)
 
-| <a href="https://github.com/MkMonir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MkMonir&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MkMonir's github stats" /></a> | <a href="https://github.com/MkMonir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MkMonir&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<!-- | <a href="https://github.com/MkMonir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MkMonir&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MkMonir's github stats" /></a> | <a href="https://github.com/MkMonir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MkMonir&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- | -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MkMonir&" alt="MkMonir" /></p>
 
