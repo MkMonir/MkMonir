@@ -20,7 +20,7 @@ I work on both frontend and backend, focusing on clean code, performance, and pr
 
 ### 👨‍💻 About Me
 
-- 💼 Working at **Ahlfagon**
+- 💼 Working at **Alphagon**
 - 🚀 3+ years of professional experience  
 - 🌐 Portfolio: https://mkmonir.vercel.app/  
 - 💬 Ask me about **JavaScript, React, Node.js**  
